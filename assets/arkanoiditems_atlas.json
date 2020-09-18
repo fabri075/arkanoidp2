@@ -1,0 +1,104 @@
+{
+    "frames": [
+        {
+            "filename": "paddle",
+            "frame": {
+                "w": 130,
+                "h": 50,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "orange",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "purple",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "red",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 83
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "yellow",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 83
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "blue",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 116
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "green",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 116
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ball",
+            "frame": {
+                "w": 32,
+                "h": 32,
+                "x": 130,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}
